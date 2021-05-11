@@ -1,11 +1,16 @@
 _repo: Hero-From-Yesterday_65218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65218-h/images/cover.jpg
 creator:
   author:
     agent_name: Randall, Robert
     gutenberg_agent_id: '53239'
     url: http://www.gutenberg.org/2009/agents/53239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65218#Hero-From-Yesterday
 gutenberg_issued: '2021-05-01'
 gutenberg_type: Text
 identifiers:
